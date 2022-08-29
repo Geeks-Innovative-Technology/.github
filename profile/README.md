@@ -1,9 +1,9 @@
 ## Hi there 👋
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO;GEEK+INNOAVTIVE+TECHLONOGY&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO;GEEK+INNOVATIVE+TECHNOLOGY&center=true&width=380&height=45"></a>
 </p>
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ A short introduction - What is your organization all about?
 
